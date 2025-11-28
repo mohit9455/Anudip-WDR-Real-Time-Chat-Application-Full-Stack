@@ -99,10 +99,8 @@ PORT
 
 ## 👨‍💻 Maintainer
 
-Vivek Pandey
-📧 pandeyvivekworks@gmail.com
+Mohit Singh
 
 
-📧 pandeyvivekworks@gmail.com
 
-🐙 GitHub: vivekpandeyworks
+
